@@ -2,8 +2,6 @@
 
 A clean and responsive blog preview card built using **HTML** and **CSS** as part of my UX/UI design and front-end development journey.
 
-![Blog Preview Card Screenshot](./4018e882-f814-454e-9235-8e109c210afa.png)
-
 ---
 
 ## 📌 Project Overview
@@ -36,12 +34,6 @@ This blog preview card focuses on modern UI/UX principles:
 
 ---
 
-## 🚀 Live Demo
-
-> [Click here to view live (optional)](https://your-live-preview-link.com)
-
----
-
 ## 🎨 What I Practiced
 
 - Designing consistent card layouts
@@ -69,10 +61,10 @@ This blog preview card focuses on modern UI/UX principles:
 
 ## 📬 Contact
 
-- 📧 [Email](mailto:your@email.com)
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 🌐 [Portfolio](https://your-website.com)
-- 🐱 [GitHub](https://github.com/yourgithub)
+- 📧 [Email](mailto:ben.katalan10@email.com)
+- 🌐 [A2Studio](https://a2-studio.co.il)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ben-katalan-40150614b/)
+- 🐱 [GitHub](https://github.com/KtLN2k/)
 
 ---
 
