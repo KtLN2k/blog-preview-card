@@ -1,0 +1,83 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "calibri", sans-serif;
+}
+
+body {
+  background-color: #f4d04e;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.card {
+  display: flex;
+  gap: 24px;
+  flex-direction: column;
+  background-color: #fff;
+  width: 384px;
+  height: 522px;
+  border-radius: 20px;
+  padding: 24px;
+  box-shadow: 8px 8px rgb(0, 0, 0);
+  border: 1px solid #000;
+}
+
+.inner-card {
+  display: flex;
+  flex-direction: column;
+  height: 194px;
+  width: 336px;
+  margin: 0 auto;
+  gap: 12px;
+}
+
+.card-img > img {
+  width: 336px;
+  height: 200px;
+  border-radius: 20px;
+}
+
+.card-title {
+  font-size: 14px;
+  font-weight: bold;
+  text-align: center;
+  color: #000;
+  background: #f4d04e;
+  padding: 8px;
+  width: 82px;
+  border-radius: 4px;
+}
+
+.card-date {
+  font-size: 14px;
+}
+
+.card-category {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.card-content {
+  font-size: 16px;
+  margin-top: 10px;
+  color: #6b6b6b;
+}
+
+.card-author {
+  display: flex;
+  align-items: center;
+  font-size: 14px;
+  font-weight: bold;
+  margin-top: 15px;
+}
+
+.card-author > img {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
